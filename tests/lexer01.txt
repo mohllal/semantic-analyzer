@@ -1,0 +1,9 @@
+xyz123 abcd
+1024 53.596
+true false
+'k''a''r'
+&&<+-* &/%
+()[] {} ;!-
+while if else
+._. $#^@ 
+main <> <= >=
