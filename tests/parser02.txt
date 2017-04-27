@@ -1,0 +1,12 @@
+int main(){
+  int x, y;
+  x = 10;
+  y = 20;
+  while(y >= 5){
+    while ( x != 4){
+      x = 6;
+      y = 10;
+      i = 11;
+    }
+  }
+}
