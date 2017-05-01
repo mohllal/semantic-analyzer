@@ -1,0 +1,13 @@
+int main(){
+   int x;
+   char x;
+   float y;
+   char z;
+   boolean v;
+   float[10] y;
+   
+   x = 2.5;
+   jjj = 25;
+
+   b = y;
+}
